@@ -1,0 +1,112 @@
+{
+  "overall": {
+    "canonical_title": {
+      "correct": 13,
+      "total": 20
+    },
+    "canonical_function": {
+      "correct": 13,
+      "total": 20
+    },
+    "canonical_seniority": {
+      "correct": 18,
+      "total": 20
+    }
+  },
+  "per_lang": {
+    "en": {
+      "canonical_title": {
+        "correct": 9,
+        "total": 11
+      },
+      "canonical_function": {
+        "correct": 9,
+        "total": 11
+      },
+      "canonical_seniority": {
+        "correct": 11,
+        "total": 11
+      }
+    },
+    "fr": {
+      "canonical_title": {
+        "correct": 2,
+        "total": 4
+      },
+      "canonical_function": {
+        "correct": 2,
+        "total": 4
+      },
+      "canonical_seniority": {
+        "correct": 3,
+        "total": 4
+      }
+    },
+    "de": {
+      "canonical_title": {
+        "correct": 2,
+        "total": 5
+      },
+      "canonical_function": {
+        "correct": 2,
+        "total": 5
+      },
+      "canonical_seniority": {
+        "correct": 4,
+        "total": 5
+      }
+    }
+  },
+  "error_buckets": {
+    "canonical_title": [
+      [
+        "revenue-operations-manager",
+        3
+      ],
+      [
+        "machine-learning-engineer",
+        1
+      ],
+      [
+        "software-engineer",
+        1
+      ],
+      [
+        "data-engineer",
+        1
+      ],
+      [
+        "product-manager",
+        1
+      ]
+    ],
+    "canonical_function": [
+      [
+        "revenue-operations",
+        3
+      ],
+      [
+        "machine-learning",
+        1
+      ],
+      [
+        "software",
+        1
+      ],
+      [
+        "data",
+        1
+      ],
+      [
+        "product",
+        1
+      ]
+    ],
+    "canonical_seniority": [
+      [
+        "leadership",
+        2
+      ]
+    ]
+  }
+}
